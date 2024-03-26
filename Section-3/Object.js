@@ -4,6 +4,7 @@ const div = {
    age: 2023 - 2007,
    job: "student",
    friends: ["ritesh", "aditya", "lakshya"],
+   
 };
 console.log(div);
 console.log(div.job);
