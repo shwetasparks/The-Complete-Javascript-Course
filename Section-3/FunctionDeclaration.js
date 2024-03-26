@@ -1,8 +1,9 @@
 //Main difference bey
+let realAge = calAge1(2007);
 function calAge1(birthYear) {
    return (age = 2023 - birthYear);
 }
-let realAge = calAge1(2007);
+
 console.log(realAge);
 
 //Function expression
