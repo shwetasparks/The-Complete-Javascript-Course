@@ -10,3 +10,8 @@ const fruitProcessor= function (apples,oranges){
 }
 
 console.log(fruitProcessor(2,3));
+
+
+
+
+ 
